@@ -59,7 +59,7 @@ function App() {
               }
             }}>
             <span className="rounded-full border border-emerald-500/30 bg-emerald-950/40 px-4 py-2 text-sm font-semibold text-emerald-400 hover:bg-emerald-900/40 transition">
-              🕭 Notify Me
+              🕭 Get in touch
             </span>
 
           </div>
